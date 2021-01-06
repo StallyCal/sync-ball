@@ -1,2 +1,2 @@
-# sync-ball
-used realtime database and vsc
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
